@@ -22,11 +22,13 @@ body {
     margin-bottom: 20px;
   }
   
-  .copperplate {
-    font-family: "Copperplate", "Copperplate Gothic", serif;
+  
+  .pacifico-regular {
+    font-family: "Pacifico", cursive;
     font-weight: 400;
     font-style: normal;
-}
+  }
+  
 
   
   .jersey-20-regular {
