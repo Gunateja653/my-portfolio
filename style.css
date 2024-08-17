@@ -22,11 +22,12 @@ body {
     margin-bottom: 20px;
   }
   
-  .jacquard-24-regular {
-    font-family: "Jacquard 24", system-ui;
+  .copperplate {
+    font-family: "Copperplate", "Copperplate Gothic", serif;
     font-weight: 400;
     font-style: normal;
-  }
+}
+
   
   .jersey-20-regular {
     font-family: "Jersey 20", sans-serif;
@@ -53,7 +54,7 @@ body {
   
   .hero-content {
     text-align: center;
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(11, 11, 11, 0.5);
     padding: 20px;
     border-radius: 10px;
   }
